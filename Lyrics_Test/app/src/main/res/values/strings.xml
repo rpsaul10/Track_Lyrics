@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lyrics_Test</string>
+    <string name="track_name">Track Name</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="str_search">Search Track Lyrics</string>
+    <string name="str_none_lyrics">Lyrics not available</string>
+</resources>
